@@ -89,8 +89,8 @@ E1.place(x=120,y=40)
 video_capture = cv2.VideoCapture(0)
 
 #run the code
-person_image_paths = ["Image/face_picture.jpg","Image/outside.jpg","Image/outside2.jpg"]
-person_names = ["Neha Onteru","Neha Onteru","Neha Onteru" ]
+person_image_paths = ["Image/srk(1).jpeg","Image/srk(2).jpg","Image/srk(3).jpg"]
+person_names = ["Shah Rukh Khan","Shah Rukh Khan","Shah Rukh Khan"]
 
 
 #load known faces
